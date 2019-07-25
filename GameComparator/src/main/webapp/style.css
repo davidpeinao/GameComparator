@@ -1,0 +1,154 @@
+body {
+    background: rgb(121, 217, 255, 0.7) url(mando.png) no-repeat 110px 120px;
+    font-family: 'Lucida Grande','Lucida Sans Unicode',arial,verdana,sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #666;
+}
+
+h1 {
+    margin: 2% 4% 1%;
+    font-size: 4em;
+    color: lightyellow;
+    font-weight: bold;
+}
+
+form {
+    margin: 0 4%;
+    width: 50%;
+}
+
+input[type="text"] {
+    height: 25px;
+    width: 40%;
+    border-radius: 10px;
+    padding-left: 15px;
+    box-shadow: 3px 3px 7px;
+}
+
+input[type="submit"] {
+    height: 25px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px;
+    color: white;
+    background-color: salmon;
+    border: 1px solid salmon;
+}
+
+#container {
+	margin: 0;
+	padding: 0;
+	}
+
+main {
+	background: linear-gradient(to right, rgba(188,216,245,1) 8%, rgba(129,207,239,1) 28%, rgba(59,197,232,0.93) 52%, rgba(61,219,229,0.87) 75%, rgba(63,233,227,0.87) 90%);
+	margin: 0;
+	padding: 0;
+	border-bottom: 2px solid #fff;
+	}
+
+#pageHeader {
+	color: #666;
+	height: 180px;
+	margin: 0;
+	padding: 20px 0px 0px 300px;
+	width: 400px;
+	}
+
+
+#preamble {
+	margin-left: 30%;
+	color: purple;
+	padding-bottom: 16px;
+	width: auto;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 500px;
+	background-color: lavender;
+	border-radius: 15px;
+	height: 320px;
+	margin-bottom: 10px;
+	}
+
+html>#preamble {
+	width: 500px;
+	}
+
+footer {
+	font-size: 12x;
+	font-family: 'Arial', Helvetica, sans-serif;
+	text-align: center;
+	color: #fff;
+	padding: 14px 0 8px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	height: 12px;
+	background: rgb(0, 0, 0, 0.9);
+	}
+
+p {
+	font-size: 35px;
+	text-align: justify;
+	}
+
+#preamble p, #quickSummary p.p2 {
+	line-height: 1.5;
+	color: purple;
+	}
+
+#preamble p {
+	font-size: 35px;
+	width: 450px;
+	text-align: justify;
+	}
+
+#preamble p.p1 {
+	margin: 16px 18px 10px 18px;
+	}
+
+#preamble p.p2 {
+	margin: 0 18px 10px 18px;
+}
+
+#preamble p.p3 {
+	padding: 0;
+	margin: 0 18px 0 18px;
+	}
+
+
+a, a:link, a:visited {
+	background: transparent;
+	color: #333;
+	text-decoration: underline;
+	}
+
+a:hover {
+	background: transparent;
+	color: #333;
+	text-decoration: none;
+	}
+
+
+footer a, footer a:link, footer a:visited {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 8px;
+	}
+
+footer a:hover {
+	text-decoration: underline;
+	}
+
+
+#preamble h3 {
+	font-size: 1.5em;
+	font-weight: 900;
+	width: 480px;
+	border-bottom: 2px solid #fff;
+	margin: 0;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	height: 34px; 
+	padding: 10px;
+	}
