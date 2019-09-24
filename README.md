@@ -1,5 +1,5 @@
 # GameComparator
-Games price comparator developed in the course Information Systems Engineering
+Game price comparator developed in the course Information Systems Engineering
 
 Implemented with Java, HTML, CSS, JSP and Google App Engine.
 
